@@ -117,6 +117,13 @@ workforce-attrition-risk-analysis/
 
 ---
 
+## Business Context
+
+This analysis is designed to support HR leadership in 
+identifying and acting on the highest-risk attrition segments 
+before headcount loss impacts operational capacity.
+
+---
 ## Planned Enhancements
 
 - Additional slicers for OverTime, Business Travel, Age Group, and Tenure Group
